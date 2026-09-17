@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yuxuan Ji
 
-<!--
-**JiaoYan-Xia/JiaoYan-Xia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student at the **School of Future Technology, Huazhong University of Science and Technology (HUST)**.
 
-Here are some ideas to get you started:
+My research interests lie in artificial intelligence, multimodal learning, and computer-aided design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Multimodal Large Language Models
+- Multimodal Fusion
+- CAD Generation
+
+My current research focuses on multimodal learning and intelligent CAD generation.  
+I am particularly interested in leveraging multimodal large language models to understand, represent, and generate structured CAD models.
+
+## Education
+
+**Huazhong University of Science and Technology (HUST)**  
+School of Future Technology  
+Wuhan, Hubei, China
+
+## Contact
+
+- Email: u202411521@hust.edu.cn
+- GitHub: https://github.com/JiaoYan-Xia
